@@ -64,13 +64,13 @@ JSON       🕓 17 mins      █░░░░░░░░░░░░░░░░
 🎮 Team Fortress 2
 						    🕘 562 hrs 5 mins
 ✈️ X-Plane 11
-						    🕘 503 hrs 9 mins
+						    🕘 504 hrs 33 mins
 🎮 Blockland
 						    🕘 449 hrs 54 mins
 🎮 Unturned
 						    🕘 389 hrs 21 mins
 🔫 Counter-Strike: Global Offensive
-						    🕘 270 hrs 25 mins
+						    🕘 270 hrs 55 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
