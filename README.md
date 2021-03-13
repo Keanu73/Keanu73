@@ -64,7 +64,7 @@ JSON       🕓 17 mins      █░░░░░░░░░░░░░░░░
 🎮 Team Fortress 2
 						    🕘 562 hrs 5 mins
 ✈️ X-Plane 11
-						    🕘 504 hrs 35 mins
+						    🕘 505 hrs 47 mins
 🎮 Blockland
 						    🕘 449 hrs 54 mins
 🎮 Unturned
