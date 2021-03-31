@@ -67,7 +67,7 @@ Other      🕓 0 secs ████▏░░░░░░░░░░░░░░
 🎮 Unturned
 						    🕘 389 hrs 21 mins
 🔫 Counter-Strike: Global Offensive
-						    🕘 311 hrs 2 mins
+						    🕘 312 hrs 45 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
