@@ -59,7 +59,7 @@ JavaScript 🕓 2 mins  ██▊░░░░░░░░░░░░░░░�
 🎮 Steam playtime leaderboard
 ```text
 🎮 Team Fortress 2
-						    🕘 562 hrs 5 mins
+						    🕘 562 hrs 26 mins
 ✈️ X-Plane 11
 						    🕘 515 hrs 51 mins
 🎮 Blockland
