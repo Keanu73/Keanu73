@@ -70,7 +70,7 @@ JavaScript 🕓 2 mins        ▏░░░░░░░░░░░░░░░�
 🎮 Unturned
 						    🕘 389 hrs 21 mins
 🔫 Counter-Strike: Global Offensive
-						    🕘 322 hrs 54 mins
+						    🕘 323 hrs 46 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
