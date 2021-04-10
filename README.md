@@ -64,7 +64,7 @@ YAML       🕓 0 secs        ░░░░░░░░░░░░░░░░�
 🎮 Team Fortress 2
 						    🕘 562 hrs 26 mins
 ✈️ X-Plane 11
-						    🕘 516 hrs 48 mins
+						    🕘 517 hrs 17 mins
 🎮 Blockland
 						    🕘 449 hrs 54 mins
 🎮 Unturned
