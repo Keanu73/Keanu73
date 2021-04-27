@@ -64,7 +64,7 @@ Other      🕓 0 secs  ▏░░░░░░░░░░░░░░░░░�
 🎮 Team Fortress 2
 						    🕘 562 hrs 35 mins
 ✈️ X-Plane 11
-						    🕘 526 hrs 38 mins
+						    🕘 526 hrs 45 mins
 🎮 Blockland
 						    🕘 449 hrs 54 mins
 🎮 Unturned
