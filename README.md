@@ -60,7 +60,7 @@ Still Gathering Statistics...
 🎮 Team Fortress 2
 						    🕘 562 hrs 35 mins
 ✈️ X-Plane 11
-						    🕘 537 hrs 14 mins
+						    🕘 538 hrs 20 mins
 🎮 Blockland
 						    🕘 449 hrs 54 mins
 🎮 Unturned
