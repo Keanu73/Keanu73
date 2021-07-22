@@ -58,7 +58,7 @@ Still Gathering Statistics...
 🎮 Steam playtime leaderboard
 ```text
 🎮 Team Fortress 2
-						    🕘 588 hrs 21 mins
+						    🕘 589 hrs 25 mins
 ✈️ X-Plane 11
 						    🕘 539 hrs 8 mins
 🎮 Blockland
