@@ -59,7 +59,7 @@ JSON       🕓 0 secs ▊░░░░░░░░░░░░░░░░░░
 🎮 Steam playtime leaderboard
 ```text
 🎮 Team Fortress 2
-						    🕘 616 hrs 52 mins
+						    🕘 617 hrs 24 mins
 ✈️ X-Plane 11
 						    🕘 539 hrs 26 mins
 🎮 Blockland
