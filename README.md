@@ -58,7 +58,7 @@ TypeScript 🕓 1 min ███████████████████�
 🎮 Steam playtime leaderboard
 ```text
 🎮 Team Fortress 2
-						    🕘 617 hrs 24 mins
+						    🕘 617 hrs 34 mins
 ✈️ X-Plane 11
 						    🕘 539 hrs 26 mins
 🎮 Blockland
