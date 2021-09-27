@@ -19,7 +19,7 @@ jobs:
     name: Update-steam-playtime
     runs-on: ubuntu-latest
     env:
-      STEAM_OPTION: ALLTIME
+      STEAM_OPTION: RECENT
       MULTILINE: YES
       STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
       STEAM_ID: ${{ secrets.STEAM_ID }}
@@ -37,8 +37,8 @@ jobs:
       - uses: actions/setup-go@v2
       - name: Clone and run steam-box
         run: |-
-          git clone https://github.com/Keanu73/steam-box.git
-          cd steam-box && git checkout recent-played-games-option && go build -o steam ./cmd/box/main.go
+          git clone https://github.com/YouEclipse/steam-box.git
+          cd steam-box && go build -o steam ./cmd/box/main.go
           mv ./steam ../ && cd .. && rm -rf steam-box/
 
       - name: Commit and push
