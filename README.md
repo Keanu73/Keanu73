@@ -1,10 +1,10 @@
 ## Greetings! 👋
-Greetings to thee, fellow brethen! I am known by the name of Keanu (believe it or not), and I'm a budding young developer who has a deep passion for open-source projects. If you want to contact me for whatever reason, shoot an email to `keanu@keanu73.net`, and you can always leave a cheeky comment on my [website](https://keanu73.net) as many others have done... 🤭
+Greetings to thee, fellow brethen! I am known by the name of **Keanu** (believe it or not), and I'm a budding young developer who has a deep passion for open-source projects. If you want to contact me for whatever reason, shoot an email to `keanu@keanu73.net`, and you can always check out my [website](https://keanu73.net) here.
 
 [![](https://img.shields.io/badge/keanu@keanu73.net-0078D4?style=flat-square&logo=Microsoft-Outlook&labelColor=0078D4&logoColor=ffffff)](mailto:keanu@keanu73.net)
 
 ## Specialisations 🐧
-I have over 7 years of experience with Linux system administration (mainly Debian flavoured operating systems, but also Arch Linux), but I also have experience with frontend and backend development.
+I have over 7 years of experience with Linux system administration (mainly Debian flavoured operating systems, but also Arch Linux), and I also have considerable experience with frontend/backend development, as well as DevOps (Docker, etc).
 
 ![](https://img.shields.io/badge/Windows%2010-0078D7?style=flat-square&logo=Windows&labelColor=0078D7)
 ![](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=Arch-Linux&labelColor=1793D1&logoColor=ffffff)
@@ -31,12 +31,20 @@ I have over 7 years of experience with Linux system administration (mainly Debia
 [![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&labelColor=3776AB&logoColor=ffffff)](https://python.org)
 [![](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU-Bash&labelColor=4EAA25&logoColor=ffffff)](https://bash.org)
 ## Statistics
+<table>
+<tr>
+<td valign="center" width="50%">
 <a href="https://github.com/Keanu73/Keanu73">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Keanu73&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
+</td>
+<td valign="center" width="50%">
 <a href="https://github.com/Keanu73/Keanu73">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keanu73&layout=compact&theme=tokyonight&langs_count=8" />
 </a>
+</td>
+</tr>
+</table>
 
 <br />
 
