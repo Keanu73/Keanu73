@@ -1,0 +1,59 @@
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+name: Metrics
+on:
+  schedule: [{cron: "0 */4 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["master"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: Keanu73
+          template: classic
+          base: header, activity, community, repositories, metadata
+          repositories_forks: no
+          config_display: large
+          config_timezone: Europe/London
+          
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_limit: 0 
+          
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
+          
+          plugin_habits: yes
+          
+          plugin_music: yes
+          plugin_music_provider: spotify
+          plugin_music_token: ${{ secrets.SPOTIFY_TOKEN }}
+          plugin_music_mode: recent
+          
+          plugin_lines: yes
+          
+          plugin_notable: yes
+          
+          plugin_screenshot: yes
+          plugin_screenshot_title: keanu73.net
+          plugin_screenshot_url: https://keanu73.net
+          
+          plugin_skyline: no
+          plugin_skyline_frames: 60
+          plugin_skyline_quality: 0.5
+          plugin_skyline_year: current-year
+          
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_days: 14
+          plugin_wakatime_limit: 5
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_user: current
