@@ -48,18 +48,12 @@ I have over 7 years of experience with Linux system administration (mainly Debia
 <br />
 
 <!-- steam-box start -->
-🎮 Steam playtime leaderboard
+🎮 Recently played Steam games
 ```text
-🎮 Team Fortress 2
-						    🕘 619 hrs 12 mins
-✈️ X-Plane 11
-						    🕘 540 hrs 1 mins
-🎮 Blockland
-						    🕘 449 hrs 54 mins
-🎮 Unturned
-						    🕘 389 hrs 21 mins
-🔫 Counter-Strike: Global Offensive
-						    🕘 361 hrs 4 mins
+🎮 Dead by Daylight
+						    🕘 201 hrs 28 mins
+🔫 Tom Clancy's Rainbow Six Siege
+						    🕘 121 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
