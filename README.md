@@ -51,7 +51,7 @@ I have over 7 years of experience with Linux system administration (mainly Debia
 🎮 Recently played Steam games
 ```text
 🎮 Dead by Daylight
-						    🕘 210 hrs 58 mins
+						    🕘 211 hrs 22 mins
 🔫 Tom Clancy's Rainbow Six Siege
 						    🕘 121 hrs 43 mins
 ```
