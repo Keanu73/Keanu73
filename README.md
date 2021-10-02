@@ -26,7 +26,7 @@ I have over 7 years of experience with Linux system administration (mainly Debia
 
 [![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&labelColor=339933&logoColor=ffffff)](https://nodejs.org)
 [![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&labelColor=F7DF1E&logoColor=000000)](https://js.org)
-[![](https://img.shields.io/badge/TypeScript-0078D7?style=flat-square&logo=TypeScript&labelColor=0078D7)](https://typescriptlang.org)
+[![](https://img.shields.io/badge/TypeScript-0078D7?style=flat-square&logo=TypeScript&labelColor=0078D7&logoColor=ffffff)](https://typescriptlang.org)
 [![](https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
 [![](https://img.shields.io/badge/PHP-787cb5?style=flat-square&logo=PHP&labelColor=787cb5&logoColor=ffffff)](https://php.net)
 [![](https://img.shields.io/badge/Laravel-f05340?style=flat-square&logo=Laravel&labelColor=f05340&logoColor=ffffff)](https://laravel.com)
