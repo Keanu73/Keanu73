@@ -3,6 +3,7 @@ Greetings to thee, fellow brethen! I am known by the name of **Keanu** (believe 
 
 [![](https://img.shields.io/badge/keanu@keanu73.net-0078D4?style=flat-square&logo=Microsoft-Outlook&labelColor=0078D4&logoColor=ffffff)](mailto:keanu@keanu73.net)
 [![wakatime](https://wakatime.com/badge/user/375051da-ed47-4436-a957-fb71c184514d.svg)](https://wakatime.com/@375051da-ed47-4436-a957-fb71c184514d)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Keanu73.Keanu73)
 
 ## Specialisations 🐧
 I have over 7 years of experience with Linux system administration (mainly Debian flavoured operating systems, but also Arch Linux), and I also have considerable experience with frontend/backend development, as well as DevOps (Docker, etc).
