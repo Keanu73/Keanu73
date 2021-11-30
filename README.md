@@ -55,11 +55,11 @@ I have over 7 years of experience with Linux system administration (mainly Debia
 🎮 War Selection
 						    🕘 38 hrs 15 mins
 🎮 Brawlhalla
-						    🕘 16 hrs 46 mins
+						    🕘 17 hrs 10 mins
 🎮 Rising Storm 2: Vietnam
 						    🕘 11 hrs 9 mins
 🎮 Dead by Daylight
-						    🕘 317 hrs 24 mins
+						    🕘 318 hrs 54 mins
 🕵️‍♂️ Among Us
 						    🕘 18 hrs 41 mins
 ```
