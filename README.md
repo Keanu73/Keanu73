@@ -61,7 +61,7 @@ I have over 7 years of experience with Linux system administration (mainly Debia
 🎮 Dead by Daylight
 						    🕘 323 hrs 5 mins
 🎮 Rust
-						    🕘 37 hrs 40 mins
+						    🕘 39 hrs 11 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
