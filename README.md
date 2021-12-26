@@ -57,7 +57,7 @@ I have over 7 years of experience with Linux system administration (mainly Debia
 🎮 Brawlhalla
 						    🕘 32 hrs 45 mins
 🎮 Hearts of Iron IV
-						    🕘 4 hrs 38 mins
+						    🕘 5 hrs 39 mins
 🎮 Team Fortress 2
 						    🕘 619 hrs 59 mins
 ```
