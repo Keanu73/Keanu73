@@ -55,7 +55,7 @@ I have over 7 years of experience with Linux system administration (mainly Debia
 🎮 Rust
 						    🕘 146 hrs 11 mins
 🎮 Brawlhalla
-						    🕘 36 hrs 24 mins
+						    🕘 38 hrs 23 mins
 🎮 Hearts of Iron IV
 						    🕘 7 hrs 5 mins
 ```
