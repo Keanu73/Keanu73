@@ -58,8 +58,6 @@ I have over 7 years of experience with Linux system administration (mainly Debia
 						    🕘 36 hrs 24 mins
 🎮 Hearts of Iron IV
 						    🕘 7 hrs 5 mins
-🎮 Team Fortress 2
-						    🕘 619 hrs 59 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
