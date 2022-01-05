@@ -53,13 +53,15 @@ I have over 7 years of experience with Linux system administration (mainly Debia
 🎮 Recently played Steam games
 ```text
 🎮 Rust
-						    🕘 147 hrs 8 mins
+						    🕘 147 hrs 31 mins
 🎮 Brawlhalla
-						    🕘 39 hrs 46 mins
+						    🕘 40 hrs 50 mins
 🎮 Hearts of Iron IV
 						    🕘 7 hrs 5 mins
 🎮 VRChat
 						    🕘 3 hrs 7 mins
+🎮 Dead by Daylight
+						    🕘 324 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
