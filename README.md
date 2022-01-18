@@ -53,7 +53,7 @@ I have over 7 years of experience with Linux system administration (mainly Debia
 🎮 Recently played Steam games
 ```text
 🎮 Brawlhalla
-						    🕘 53 hrs 4 mins
+						    🕘 53 hrs 49 mins
 🔫 Counter-Strike: Global Offensive
 						    🕘 366 hrs 0 mins
 🎮 Hell Let Loose
