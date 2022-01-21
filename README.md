@@ -55,7 +55,7 @@ I have over 7 years of experience with Linux system administration (mainly Debia
 🎮 Brawlhalla
 						    🕘 54 hrs 22 mins
 🔫 Counter-Strike: Global Offensive
-						    🕘 367 hrs 4 mins
+						    🕘 367 hrs 40 mins
 🎮 Hell Let Loose
 						    🕘 4 hrs 13 mins
 🎮 Rust
