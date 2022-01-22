@@ -53,7 +53,7 @@ I have over 7 years of experience with Linux system administration (mainly Debia
 🎮 Recently played Steam games
 ```text
 🎮 Brawlhalla
-						    🕘 55 hrs 39 mins
+						    🕘 56 hrs 15 mins
 🔫 Counter-Strike: Global Offensive
 						    🕘 368 hrs 34 mins
 🎮 Hell Let Loose
@@ -61,7 +61,7 @@ I have over 7 years of experience with Linux system administration (mainly Debia
 🎮 Rust
 						    🕘 150 hrs 47 mins
 🎮 Dead by Daylight
-						    🕘 327 hrs 5 mins
+						    🕘 327 hrs 36 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
