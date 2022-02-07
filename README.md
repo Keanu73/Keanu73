@@ -57,7 +57,7 @@ I have over 7 years of experience with Linux system administration (mainly Debia
 🎮 Brawlhalla
 						    🕘 64 hrs 20 mins
 🎮 Dead by Daylight
-						    🕘 328 hrs 47 mins
+						    🕘 329 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
