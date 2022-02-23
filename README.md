@@ -57,7 +57,7 @@ I have over 7 years of experience with Linux system administration (mainly Debia
 🔫 Counter-Strike: Global Offensive
 						    🕘 392 hrs 50 mins
 🎮 Brawlhalla
-						    🕘 66 hrs 42 mins
+						    🕘 66 hrs 54 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
