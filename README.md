@@ -54,10 +54,10 @@ I have over 7 years of experience with Linux system administration (mainly Debia
 ```text
 🎮 Dead by Daylight
 						    🕘 338 hrs 55 mins
-🔫 Counter-Strike: Global Offensive
-						    🕘 392 hrs 50 mins
 🎮 Brawlhalla
 						    🕘 66 hrs 54 mins
+🔫 Counter-Strike: Global Offensive
+						    🕘 392 hrs 50 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
