@@ -53,7 +53,7 @@ I have over 7 years of experience with Linux system administration (mainly Debia
 🎮 Recently played Steam games
 ```text
 🎮 Dead by Daylight
-						    🕘 351 hrs 51 mins
+						    🕘 352 hrs 22 mins
 🎮 Brawlhalla
 						    🕘 67 hrs 4 mins
 ```
