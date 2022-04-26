@@ -53,7 +53,7 @@ I have over 7 years of experience with Linux system administration (mainly Debia
 🎮 Recently played Steam games
 ```text
 🎮 Dead by Daylight
-						    🕘 432 hrs 6 mins
+						    🕘 434 hrs 3 mins
 🎮 Insurgency: Sandstorm
 						    🕘 71 hrs 34 mins
 ```
