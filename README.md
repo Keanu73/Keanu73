@@ -6,14 +6,13 @@ Greetings to thee, fellow brethen! I am known by the name of **Keanu** (believe 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Keanu73.Keanu73)
 
 ## Specialisations 🐧
-I have over 7 years of experience with Linux system administration (mainly Debian flavoured operating systems, but also Arch Linux), and I also have considerable experience with frontend/backend development, as well as DevOps (Docker, etc).
+I have almost 10 years of experience with Linux system administration (mainly Debian flavoured operating systems, but also Arch Linux), and I also have considerable experience with frontend/backend development, as well as DevOps (Docker, etc).
 
 **OSes I use:**
 
 ![](https://img.shields.io/badge/Windows%2010-0078D7?style=flat-square&logo=Windows&labelColor=0078D7)
 ![](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=Arch-Linux&labelColor=1793D1&logoColor=ffffff)
 ![](https://img.shields.io/badge/Ubuntu%2020.04%20(WSL)-E95420?style=flat-square&logo=Ubuntu&labelColor=E95420&logoColor=ffffff)
-![](https://img.shields.io/badge/RHEL%208.4-FF0000?style=flat-square&logo=Red-Hat&labelColor=FF0000&logoColor=ffffff)
 <br />
 
 **Tools I use:**
@@ -30,12 +29,12 @@ I have over 7 years of experience with Linux system administration (mainly Debia
 [![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&labelColor=F7DF1E&logoColor=000000)](https://js.org)
 [![](https://img.shields.io/badge/TypeScript-0078D7?style=flat-square&logo=TypeScript&labelColor=0078D7&logoColor=ffffff)](https://typescriptlang.org)
 [![](https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
-[![](https://img.shields.io/badge/PHP-787cb5?style=flat-square&logo=PHP&labelColor=787cb5&logoColor=ffffff)](https://php.net)
-[![](https://img.shields.io/badge/Laravel-f05340?style=flat-square&logo=Laravel&labelColor=f05340&logoColor=ffffff)](https://laravel.com)
 
 
 ### Languages that I have some experience in dabbling with are:
 
+[![](https://img.shields.io/badge/PHP-787cb5?style=flat-square&logo=PHP&labelColor=787cb5&logoColor=ffffff)](https://php.net)
+[![](https://img.shields.io/badge/Laravel-f05340?style=flat-square&logo=Laravel&labelColor=f05340&logoColor=ffffff)](https://laravel.com)
 [![](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=Lua&labelColor=2C2D72&logoColor=ffffff)](https://lua.org)
 ![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&labelColor=A8B9CC&logoColor=ffffff)
 ![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&labelColor=00599C&logoColor=ffffff)
