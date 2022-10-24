@@ -8,7 +8,7 @@ Hello, folks! I'm **Keanu**, a budding young developer who has a deep passion fo
 ## Specialisations 🐧
 I have almost 10 years of experience within the IT field - mainly with Linux system administration (Debian/Red Hat/Arch, etc), and I also have considerable experience with frontend/backend development in Golang/Node.js/TypeScript, as well as DevOps (Docker, Kubernetes, OpenShift).
 
-I hold the [Certified Kubernetes Adminstrator certification](https://www.credly.com/badges/5b6edad4-fe65-46cb-9ce0-23a9c6406393/public_url).
+I hold the [Certified Kubernetes Adminstrator certification](https://www.credly.com/badges/5b6edad4-fe65-46cb-9ce0-23a9c6406393/public_url) and the [Red Hat Certified System Administrator certification](https://www.credly.com/badges/0d1d6ea7-2fff-4c43-92b6-ab41816dfff3/public_url).
 
 **OSes I use:**
 
