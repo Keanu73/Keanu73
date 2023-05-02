@@ -40,7 +40,7 @@ jobs:
           
           plugin_lines: yes
           
-          plugin_notable: yes
+          plugin_notable: no
           
           plugin_screenshot: yes
           plugin_screenshot_title: keanu73.net
